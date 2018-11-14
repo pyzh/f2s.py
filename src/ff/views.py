@@ -1,5 +1,4 @@
-from django.http import HttpResponse
-from django.shortcuts import render
+from use.v import render
 # from .models import M
 # from .models import Msg:M
 from .models import Msg
