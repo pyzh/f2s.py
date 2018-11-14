@@ -1,0 +1,1 @@
+python f2s/manage.py %*
