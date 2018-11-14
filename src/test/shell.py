@@ -1,7 +1,7 @@
 from ff.models import People as p, Msg as m
 
 def t1(): # 测试ORM
-    a = p.object.all
+    a = p.objects.all
     before = a()
     p1=p(name='tom')
     p1.save()

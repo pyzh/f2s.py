@@ -26,8 +26,8 @@ class Msg(M): #= status
     context = t(140);  p = ref(People)
     time = dt('时间')
 
-    def __str__(e):
-        return ''+e.url_id+' '+time
+   #  def __str__(e):
+    #    return ''+e.url_id+' '+e.time
 
 
 

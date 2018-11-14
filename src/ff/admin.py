@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import People,Msg
+
+admin.site.register(People)
+admin.site.register(Msg)
