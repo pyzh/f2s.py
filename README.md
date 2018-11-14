@@ -19,5 +19,6 @@ todo：
 4. OAuth/fanfou
 5. 打包
 6. 用erlang/n2o重写一个 // production use
+7. 用rust写一个精简版/生成exe，然后发到万能的饭否
 
 PS：本示例仅供参考，所以里面的secret_key要用前最好改下
